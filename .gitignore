@@ -45,3 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+TF2SG/bin/Debug/
+TF2SG/bin/Release/*.txt
+TF2SG/bin/Release/*.cfg
+*.cache
+*.pdb
+TF2SG/bin/Release/TF2SG.vshost.exe
+TF2SG/bin/Release/TF2SG.vshost.exe.manifest
+TF2SG.5.1.ReSharper.user
+_ReSharper.TF2SG/
