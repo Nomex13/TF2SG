@@ -1,6 +1,13 @@
-﻿using System;
+﻿
+//
+// This is TeamFortress 2 Say Generator
+//
+// License: Public Domain
+// Iodynis Vladimir (c) 2016
+//
+
+using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace SayGenerator
 {
