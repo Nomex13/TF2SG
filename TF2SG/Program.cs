@@ -15,9 +15,9 @@ namespace SayGenerator
 {
 	class Program
 	{
-		private const string field_inputFileDefaultPath  = "./say.txt";
-		private const string field_readmeFileDefaultPath  = "./readme.txt";
-		private const string field_outputFileDefaultPath = "./say.cfg";
+		private const string field_inputFileDefaultPath  = "./tf2sg.say.txt";
+		private const string field_readmeFileDefaultPath = "./tf2sg.readme.txt";
+		private const string field_outputFileDefaultPath = "./tf2sg.say.cfg";
 
 		static void Main(string[] param_arguments)
 		{
